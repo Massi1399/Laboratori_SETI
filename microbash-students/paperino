@@ -1,0 +1,10 @@
+total 160
+-rw-rw-r-- 1 massimo massimo    52 feb 17 11:35 bar
+-rw-rw-r-- 1 massimo massimo     0 feb 17 11:34 foo
+-rw-r----- 1 massimo massimo   320 nov 22 10:05 Makefile
+-rwxrwxr-x 1 massimo massimo 57952 feb 17 12:27 microbash
+-rw-rw-r-- 1 massimo massimo 13156 feb 17 12:08 microbash.c
+-rw-rw-r-- 1 massimo massimo 68416 feb 17 12:27 microbash.o
+-rw-rw-r-- 1 massimo massimo     0 feb 17 12:29 paperino
+-rw-rw-r-- 1 massimo massimo     4 feb 17 11:32 pippo
+drwxrwxr-x 2 massimo massimo  4096 gen 25 15:17 testing
